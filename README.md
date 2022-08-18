@@ -1,4 +1,4 @@
-[!MasterHead](https://media2.giphy.com/media/CcwLAV11cALh3OuEJ5/giphy.gif?cid=ecf05e47kxlnn83w6eutmzacu4xg7dlrvp28q054o8os2gr9&rid=giphy.gif&ct=g)](https://piypra2367.io)
+[![MasterHead](https://media2.giphy.com/media/CcwLAV11cALh3OuEJ5/giphy.gif?cid=ecf05e47kxlnn83w6eutmzacu4xg7dlrvp28q054o8os2gr9&rid=giphy.gif&ct=g)](https://piypra2367.io)
 <h1 align="center">Hi 👋, I'm Piyush Raj</h1>
 <h3 align="center">A passionate frontend developer ,competitive programmer and Graphics Designer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif ">
