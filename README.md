@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **piypra2367@gmail.com**
 
-- ⚡ Fun fact **Error in Code is my Enemy**
+- ⚡ Fun fact **I hate Error and Bug 😂**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
