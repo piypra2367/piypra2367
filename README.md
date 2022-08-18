@@ -1,7 +1,7 @@
 [![MasterHead](https://media2.giphy.com/media/CcwLAV11cALh3OuEJ5/giphy.gif?cid=ecf05e47kxlnn83w6eutmzacu4xg7dlrvp28q054o8os2gr9&rid=giphy.gif&ct=g)](https://piypra2367.io)
 <h1 align="center">Hi 👋, I'm Piyush Raj</h1>
 <h3 align="center">A passionate frontend developer ,competitive programmer and Graphics Designer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif ">
+<img align="right" alt="Coding" width="400"src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=piypra2367&label=Profile%20views&color=0e75b6&style=flat" alt="piypra2367" /> </p>
 
 <p align="left"> <a href="https://twitter.com/@piyushr58033517" target="blank"><img src="https://img.shields.io/twitter/follow/@piyushr58033517?logo=twitter&style=for-the-badge" alt="@piyushr58033517" /></a> </p>
